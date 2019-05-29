@@ -38,6 +38,7 @@ namespace EventsExample
             }
         }
 
+
         private void drawStars(int newStarNumber)
         {
             switch (newStarNumber)
